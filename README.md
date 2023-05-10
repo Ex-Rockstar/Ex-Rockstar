@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ex-Rockstar
 - 👀 I’m interested in ... Full Stack Web development and Game Development 
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... React Native
 - 💞️ I’m looking to collaborate on ... Web Based Applications
 - 📫 How to reach me ... ruthirockstar2218@gmail.com
 
