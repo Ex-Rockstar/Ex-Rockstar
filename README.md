@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on website for my NGO Seyal Foundation<br>👯 I’m looking to collaborate on ML projects<br>🤝 I’m looking for help with learning ML<br>🌱 I’m currently learning ML<br>💬 Ask me about Web Development<br>⚡ Fun fact I love making colorful and Aesthetic websites
+🔭 I’m currently working on my application on stress relief and anxiety therapy using ai<br>👯 I’m looking to collaborate on ML projects<br>🤝 I’m looking for help with learning ML<br>🌱 I’m currently learning ML<br>💬 Ask me about Web Development<br>⚡ Fun fact I love making colorful and Aesthetic websites
 
 
 ## 🌐 Socials:
